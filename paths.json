@@ -7,5 +7,5 @@
     "/content/securbank.resource/icons/:/icons/",
     "/content/securbank/configuration:/.helix/config.json"
   ],
-  "includes": ["/content/securbank/"]
+  "includes": ["/content/securbank/", "/content/experience-fragments/securbank/"]
 }
